@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{3F4BF09F-9E36-4109-8770-6E3EA3BB218B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogusFaker", "BogusFaker\BogusFaker.csproj", "{CCB65C0A-C8DE-4228-A69D-F68809012281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4BF09F-9E36-4109-8770-6E3EA3BB218B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4BF09F-9E36-4109-8770-6E3EA3BB218B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4BF09F-9E36-4109-8770-6E3EA3BB218B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4BF09F-9E36-4109-8770-6E3EA3BB218B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB65C0A-C8DE-4228-A69D-F68809012281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB65C0A-C8DE-4228-A69D-F68809012281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB65C0A-C8DE-4228-A69D-F68809012281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB65C0A-C8DE-4228-A69D-F68809012281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E401E675-8736-4564-8AE6-2DC5F8DED5B7}
+	EndGlobalSection
+EndGlobal
